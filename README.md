@@ -27,9 +27,15 @@ The dataset house_price_2022.csv contains information on house sales/prices in T
 
   Room count
 
-  Age of property
+  Have parking
 
-  District/Neighborhood
+  Have warehouse
+
+  Have elevator
+
+  Address
+
+  
 
   Price (Target variable)
 
